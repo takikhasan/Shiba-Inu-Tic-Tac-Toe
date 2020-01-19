@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shiba-Inu-Tic-Tac-Toe/static/css/main.04a84f23.chunk.css",
+    "main.js": "/Shiba-Inu-Tic-Tac-Toe/static/js/main.bb7b0efd.chunk.js",
+    "main.js.map": "/Shiba-Inu-Tic-Tac-Toe/static/js/main.bb7b0efd.chunk.js.map",
+    "runtime-main.js": "/Shiba-Inu-Tic-Tac-Toe/static/js/runtime-main.5ce1f873.js",
+    "runtime-main.js.map": "/Shiba-Inu-Tic-Tac-Toe/static/js/runtime-main.5ce1f873.js.map",
+    "static/js/2.bebc24d7.chunk.js": "/Shiba-Inu-Tic-Tac-Toe/static/js/2.bebc24d7.chunk.js",
+    "static/js/2.bebc24d7.chunk.js.map": "/Shiba-Inu-Tic-Tac-Toe/static/js/2.bebc24d7.chunk.js.map",
+    "index.html": "/Shiba-Inu-Tic-Tac-Toe/index.html",
+    "precache-manifest.78aa6081d9fea39f3e5214ed89643bb1.js": "/Shiba-Inu-Tic-Tac-Toe/precache-manifest.78aa6081d9fea39f3e5214ed89643bb1.js",
+    "service-worker.js": "/Shiba-Inu-Tic-Tac-Toe/service-worker.js",
+    "static/css/main.04a84f23.chunk.css.map": "/Shiba-Inu-Tic-Tac-Toe/static/css/main.04a84f23.chunk.css.map",
+    "static/js/2.bebc24d7.chunk.js.LICENSE": "/Shiba-Inu-Tic-Tac-Toe/static/js/2.bebc24d7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ce1f873.js",
+    "static/js/2.bebc24d7.chunk.js",
+    "static/css/main.04a84f23.chunk.css",
+    "static/js/main.bb7b0efd.chunk.js"
+  ]
+}
